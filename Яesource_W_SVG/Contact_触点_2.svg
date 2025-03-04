@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Contact_触点" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="b" x="144" y="1531" width="72" height="18"/>
+  <rect class="b" x="144" y="1495" width="72" height="18"/>
+  <rect class="b" x="252" y="1531" width="72" height="18"/>
+  <rect class="b" x="252" y="1495" width="72" height="18"/>
+  <rect class="b" x="144" y="1567" width="72" height="18"/>
+  <rect class="b" x="144" y="1603" width="72" height="18"/>
+  <rect class="b" x="252" y="1567" width="72" height="18"/>
+  <rect class="b" x="252" y="1603" width="72" height="18"/>
+  <rect class="b" x="360" y="1495" width="72" height="18"/>
+  <rect class="b" x="360" y="1531" width="72" height="18"/>
+  <rect class="b" x="468" y="1495" width="72" height="18"/>
+  <rect class="b" x="468" y="1531" width="72" height="18"/>
+  <rect class="b" x="144" y="1639" width="72" height="18"/>
+  <rect class="b" x="252" y="1639" width="72" height="18"/>
+  <rect class="b" x="360" y="1567" width="72" height="18"/>
+  <rect class="b" x="468" y="1567" width="72" height="18"/>
+</svg>

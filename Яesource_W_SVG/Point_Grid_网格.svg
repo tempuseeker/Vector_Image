@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Point_Grid_网格" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="b" x="626.54" y="2520.29" width="21.6" height="21.6"/>
+  <rect class="b" x="626.54" y="2585.09" width="21.6" height="21.6"/>
+  <rect class="b" x="626.54" y="2649.89" width="21.6" height="21.6"/>
+  <rect class="b" x="626.54" y="2714.69" width="21.6" height="21.6"/>
+  <rect class="b" x="561.74" y="2520.29" width="21.6" height="21.6"/>
+  <rect class="b" x="561.74" y="2585.09" width="21.6" height="21.6"/>
+  <rect class="b" x="561.74" y="2649.89" width="21.6" height="21.6"/>
+  <rect class="b" x="561.74" y="2714.69" width="21.6" height="21.6"/>
+  <rect class="b" x="496.94" y="2520.29" width="21.6" height="21.6"/>
+  <rect class="b" x="496.94" y="2585.09" width="21.6" height="21.6"/>
+  <rect class="b" x="496.94" y="2649.89" width="21.6" height="21.6"/>
+  <rect class="b" x="496.94" y="2714.69" width="21.6" height="21.6"/>
+  <rect class="b" x="432.14" y="2520.29" width="21.6" height="21.6"/>
+  <rect class="b" x="432.14" y="2585.09" width="21.6" height="21.6"/>
+  <rect class="b" x="432.14" y="2649.89" width="21.6" height="21.6"/>
+  <rect class="b" x="432.14" y="2714.69" width="21.6" height="21.6"/>
+</svg>
