@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Cube_方块" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="b" d="m2304,675v189h216v-216h-216v27Zm189,0v162h-162v-162h162Z"/>
+  <rect class="b" x="2358" y="702" width="108" height="108"/>
+</svg>

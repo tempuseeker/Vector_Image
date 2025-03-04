@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Bar_警戒线" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <polygon class="b" points="1836 1278 1980 1350 1980 1278 1836 1206 1836 1278"/>
+  <polygon class="b" points="1836 1134 1980 1206 1980 1134 1836 1062 1836 1134"/>
+  <polygon class="b" points="1836 1566 1980 1566 1980 1422 1836 1350 1836 1566"/>
+  <polygon class="b" points="1836 144 1836 702 1980 774 1980 144 1836 144"/>
+  <polygon class="b" points="1836 990 1980 1062 1980 990 1836 918 1836 990"/>
+  <polygon class="b" points="1836 846 1980 918 1980 846 1836 774 1836 846"/>
+</svg>

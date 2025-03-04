@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Solder_Joints_焊点" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="b" x="2358" y="936.25" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="989.71" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1043.17" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1096.62" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1150.08" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1203.53" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1256.99" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1310.44" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1363.9" width="35.64" height="17.82"/>
+  <rect class="b" x="2358" y="1417.36" width="35.64" height="17.82"/>
+</svg>

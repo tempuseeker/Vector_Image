@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Bar_Chart_条形" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3168 3168">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="b" x="1620" y="144" width="36" height="432"/>
+  <rect class="b" x="1548" y="144" width="36" height="360"/>
+  <rect class="b" x="1476" y="144" width="36" height="288"/>
+</svg>
